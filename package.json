@@ -2,17 +2,13 @@
   "name": "rollup-config-buble",
   "version": "0.0.2",
   "description": "",
+  "repository": "fregante/rollup-config-buble",
   "license": "MIT",
-  "repository": "bfred-it/rollup-config-buble",
-  "author": "Federico Brigante <bfred-it@users.noreply.github.com> (twitter.com/bfred_it)",
+  "author": "Federico Brigante <opensource@bfred.it> (bfred.it)",
   "files": [
     "index.js"
   ],
   "dependencies": {
     "rollup-plugin-buble": "^0.11.0"
-  },
-  "bugs": {
-    "url": "https://github.com/bfred-it/rollup-config-buble/issues"
-  },
-  "homepage": "https://github.com/bfred-it/rollup-config-buble#readme"
+  }
 }
